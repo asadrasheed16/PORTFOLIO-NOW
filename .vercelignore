@@ -1,0 +1,6 @@
+# build-time only — not part of the deployed site
+build-skills.js
+build-artifact.js
+artifact.html
+README.md
+assets/img/asad-original.jpg
